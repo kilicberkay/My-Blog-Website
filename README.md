@@ -1,5 +1,5 @@
 # Blog
-PHP+SQL Blog Sitem // My PHP+SQL Blog Site
+👋👀 PHP+SQL Blog Sitem // My PHP+SQL Blog Site
 
 - TR | Database ayarları blog\admin\pages\inc-functions.php yolundadır
 - EN | Database settings are at blog\admin\pages\inc-functions.php
